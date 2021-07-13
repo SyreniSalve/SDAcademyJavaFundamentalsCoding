@@ -1,0 +1,2 @@
+3.	Write a program for solving a quadratic equation. The program should take three integers (coefficients of the quadratic equation a, b, c) and calculate the roots xOne,xTwo  of the equation ax(in square) + bx = 0
+If delta ∆ comes out negative, print "Delta negative" and exit the program. Formulas you’ll need: ∆ = b (in square) - 4ac, xOne = -b - root of ∆/ 2a, xTwo = -b + root of ∆/ 2a

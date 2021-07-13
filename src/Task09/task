@@ -1,0 +1,6 @@
+Write an application that will take a positive number from the user (type int) and draw a wave with a given length
+and height of 4 lines, according to the following example (fill empty spaces with spaces):
+*            **           **            **
+  *        *    *       *    *        *    *
+    *    *        *   *        *    *
+      **            *            **
